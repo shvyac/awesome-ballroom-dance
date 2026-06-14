@@ -12,6 +12,7 @@ A curated list of awesome resources for **Ballroom Dance**, focused on the **10 
 - [Competitions & Governing Bodies](#competitions--governing-bodies)
 - [Dance Fashion & Costumes](#dance-fashion--costumes)
 - [Dance Music](#dance-music)
+- [Japan: University Dance Clubs & Organizations](#japan-university-dance-clubs--organizations)
 
 ## The 10 Dances
 
@@ -71,6 +72,17 @@ A curated list of awesome resources for **Ballroom Dance**, focused on the **10 
 - [music4dance blog - Playlists for Ballroom DJs](https://music4dance.blog/2025/03/10/playlists-for-ballroom-djs/) - Tips and playlists for ballroom DJs.
 - ["The Sound of Ballroom" (Spotify)](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - Spotify playlist of ballroom dance music.
 - [UCONN Ballroom Playlists](https://www.uconnballroom.com/members/ballroom-playlists) - Practice playlists organized by dance style and tempo.
+
+## Japan: University Dance Clubs & Organizations
+
+Resources for Japanese university competitive dance clubs (学連) and OB/OG (alumni) associations, plus the major national dancesport governing bodies.
+
+- [全日本学生競技ダンス連盟 OBOG競技会運営委員会](https://gakuren-dance-obog.official.jp/) - All Japan Student Competitive Dance Federation OB/OG Competition Committee, including its [link page](https://gakuren-dance-obog.official.jp/7-link.php) to university OB/OG associations.
+- [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - University of Tokyo Competitive Dance Club OB/OG Association.
+- [公益財団法人 日本ボールルームダンス連盟 (JBDF)](https://www.jbdf.or.jp/) - Japan Ballroom Dance Federation.
+- [公益社団法人 日本ダンススポーツ連盟 (JDSF)](https://www.jdsf.or.jp/) - Japan DanceSport Federation.
+- [公益社団法人 日本ダンス議会 (JDC)](https://jdc-dance.org/) - Japan Dance Council.
+- [日本プロフェッショナルダンス競技連盟 東部総局 (JCF)](https://www.jcf-tokyo.com/) - Japan Professional Dance Competition Federation, Eastern Division.
 
 ## License
 
