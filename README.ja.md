@@ -12,6 +12,9 @@
 - [競技会・統括団体](#競技会統括団体)
 - [ダンスファッション・衣装](#ダンスファッション衣装)
 - [ダンスミュージック](#ダンスミュージック)
+- [ダンス関連ソフトウェア](#ダンス関連ソフトウェア)
+- [ダンス雑誌](#ダンス雑誌)
+- [パーティー・イベント情報](#パーティーイベント情報)
 - [日本の学生競技ダンス・関連団体](#日本の学生競技ダンス関連団体)
 
 ## 10ダンスについて
@@ -72,6 +75,29 @@
 - [music4dance blog - Playlists for Ballroom DJs（英語）](https://music4dance.blog/2025/03/10/playlists-for-ballroom-djs/) - ボールルームDJ向けのプレイリストとヒント。
 - [「The Sound of Ballroom」（Spotify）](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - ボールルームダンス音楽のSpotifyプレイリスト。
 - [UCONN Ballroom Playlists（英語）](https://www.uconnballroom.com/members/ballroom-playlists) - ダンス種別・テンポ別の練習用プレイリスト。
+
+## ダンス関連ソフトウェア
+
+- [Easycomp（英語）](https://www.easycompsoftware.co.uk/) - 単発の競技会から大規模なボールルーム・ラテン選手権まで対応するスクルティニアリング（採点）ソフト。
+- [Scrutelle（英語）](https://scrutelle.software.informer.com/) - ブラックプール・ダンス・フェスティバルやUK選手権などで使われている採点ソフト。
+- [BDC Scoring System（英語）](https://bdc-scoring.com/) - PCとタブレットをサーバーに接続して使用するオンライン採点システム。
+- [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技会向けのWebベース採点システム。
+- [FALive（App Store・英語）](https://apps.apple.com/py/app/falive/id6502871498) - 競技会のライブ結果・ヒートリスト・プログラムを確認できるモバイルアプリ。
+- [danceConvention（App Store・英語）](https://apps.apple.com/ec/app/danceconvention/id1465283443) - イベント登録、電子採点、QRチェックインに対応するモバイルアプリ。
+
+## ダンス雑誌
+
+- [DanceSport Magazine（英語）](https://www.onestepdanceshop.com/competitors-edge/dance-sport-news-and-information/) - 競技ダンスを扱う季刊誌。
+- [Dance Magazine（英語）](https://dancemagazine.com/) - ダンス業界全般を扱うメディアプラットフォーム。
+- [DanceWay Magazine Online（英語）](https://danceway.com/) - ダンス用語辞典、記事、クラシファイド広告、ニュースを掲載。
+- [Dance International - Wikipedia（英語）](https://en.wikipedia.org/wiki/Dance_International) - Dance International誌に関する情報。
+
+## パーティー・イベント情報
+
+- [DanceWay - News（英語）](https://danceway.com/news) - 最新のダンススポーツイベント情報。
+- [Dance Sport News & Information（Facebook・英語）](https://www.facebook.com/DanceSportNews/) - 競技会・ショーダンス・イベントに関するニュースと動画。
+- [Meetup - Social Ballroom Dance Parties（英語）](https://www.meetup.com/topics/social-ballroom-dance-parties/) - 各地の社交ダンスパーティーやグループを検索できる。
+- [Ballroom Dance Chicago - Events（英語）](https://www.ballroomdancechicago.com/new-events) - スタジオのダンスイベントカレンダーの例。
 
 ## 日本の学生競技ダンス・関連団体
 

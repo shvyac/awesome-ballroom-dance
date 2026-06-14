@@ -12,6 +12,9 @@ A curated list of awesome resources for **Ballroom Dance**, focused on the **10 
 - [Competitions & Governing Bodies](#competitions--governing-bodies)
 - [Dance Fashion & Costumes](#dance-fashion--costumes)
 - [Dance Music](#dance-music)
+- [Dance Software](#dance-software)
+- [Dance Magazines](#dance-magazines)
+- [Party & Event News](#party--event-news)
 - [Japan: University Dance Clubs & Organizations](#japan-university-dance-clubs--organizations)
 
 ## The 10 Dances
@@ -72,6 +75,29 @@ A curated list of awesome resources for **Ballroom Dance**, focused on the **10 
 - [music4dance blog - Playlists for Ballroom DJs](https://music4dance.blog/2025/03/10/playlists-for-ballroom-djs/) - Tips and playlists for ballroom DJs.
 - ["The Sound of Ballroom" (Spotify)](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - Spotify playlist of ballroom dance music.
 - [UCONN Ballroom Playlists](https://www.uconnballroom.com/members/ballroom-playlists) - Practice playlists organized by dance style and tempo.
+
+## Dance Software
+
+- [Easycomp](https://www.easycompsoftware.co.uk/) - Scrutineering software for Ballroom and Latin championships, from single-dance events to major competitions.
+- [Scrutelle](https://scrutelle.software.informer.com/) - Scrutineering software used at events such as the Blackpool Dance Festival and UK Championships.
+- [BDC Scoring System](https://bdc-scoring.com/) - PC/tablet-based online scoring system for ballroom dance competitions.
+- [Competition Scoring System](https://compe-scoring.com/) - Web-based scoring system for dance competitions.
+- [FALive (App Store)](https://apps.apple.com/py/app/falive/id6502871498) - Mobile app for live results, heat lists, and programs at ballroom competitions.
+- [danceConvention (App Store)](https://apps.apple.com/ec/app/danceconvention/id1465283443) - Mobile app for event registration, electronic scoring, and QR check-in.
+
+## Dance Magazines
+
+- [DanceSport Magazine](https://www.onestepdanceshop.com/competitors-edge/dance-sport-news-and-information/) - Quarterly publication covering competitive partner dancing.
+- [Dance Magazine](https://dancemagazine.com/) - Multimedia platform covering the dance industry.
+- [DanceWay Magazine Online](https://danceway.com/) - Dancesport dictionary, articles, classifieds, and news.
+- [Dance International - Wikipedia](https://en.wikipedia.org/wiki/Dance_International) - Background on the Dance International magazine.
+
+## Party & Event News
+
+- [DanceWay - News](https://danceway.com/news) - Latest dancesport event news and updates.
+- [Dance Sport News & Information (Facebook)](https://www.facebook.com/DanceSportNews/) - News and videos on competitions, show dance, and events.
+- [Meetup - Social Ballroom Dance Parties](https://www.meetup.com/topics/social-ballroom-dance-parties/) - Find local social ballroom dance parties and groups.
+- [Ballroom Dance Chicago - Events](https://www.ballroomdancechicago.com/new-events) - Example of a local studio's dance event calendar.
 
 ## Japan: University Dance Clubs & Organizations
 
