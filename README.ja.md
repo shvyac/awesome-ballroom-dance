@@ -12,6 +12,7 @@
 - [競技会・統括団体](#競技会統括団体)
 - [ダンスファッション・衣装](#ダンスファッション衣装)
 - [ダンスミュージック](#ダンスミュージック)
+- [日本の学生競技ダンス・関連団体](#日本の学生競技ダンス関連団体)
 
 ## 10ダンスについて
 
@@ -71,6 +72,17 @@
 - [music4dance blog - Playlists for Ballroom DJs（英語）](https://music4dance.blog/2025/03/10/playlists-for-ballroom-djs/) - ボールルームDJ向けのプレイリストとヒント。
 - [「The Sound of Ballroom」（Spotify）](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - ボールルームダンス音楽のSpotifyプレイリスト。
 - [UCONN Ballroom Playlists（英語）](https://www.uconnballroom.com/members/ballroom-playlists) - ダンス種別・テンポ別の練習用プレイリスト。
+
+## 日本の学生競技ダンス・関連団体
+
+日本の大学競技ダンス連盟（学連）やOB/OG会、主要なダンススポーツ統括団体のリンク集です。
+
+- [全日本学生競技ダンス連盟 OBOG競技会運営委員会](https://gakuren-dance-obog.official.jp/) - 各大学OBOG会への[リンクページ](https://gakuren-dance-obog.official.jp/7-link.php)を含む。
+- [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - 東京大学競技ダンス部のOB・OG会サイト。
+- [公益財団法人 日本ボールルームダンス連盟（JBDF）](https://www.jbdf.or.jp/) - 日本ボールルームダンス連盟。
+- [公益社団法人 日本ダンススポーツ連盟（JDSF）](https://www.jdsf.or.jp/) - 日本ダンススポーツ連盟。
+- [公益社団法人 日本ダンス議会（JDC）](https://jdc-dance.org/) - 日本ダンス議会。
+- [日本プロフェッショナルダンス競技連盟 東部総局（JCF）](https://www.jcf-tokyo.com/) - 日本プロフェッショナルダンス競技連盟 東部総局。
 
 ## ライセンス
 
