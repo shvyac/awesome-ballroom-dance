@@ -1,25 +1,33 @@
-# awesome-ballroom-dance（日本語版）
+# Awesome Ballroom Dance（日本語）
 
-**社交ダンス（ボールルームダンス）**に関する厳選リソース集です。インターナショナルスタイルの**10ダンス**（モダン5種・ラテン5種）を中心にまとめています。
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[English README is here](README.md)
+[English README](README.md)
+
+**社交ダンス（ボールルーム）／ダンススポーツ**向けの厳選リソース集です。スタイル、統括団体、テクニック、学習、音楽、競技会、衣装・シューズ、ソフトウェア、日本の学連・団体を、インターナショナルスタイルの**10ダンス**（スタンダード5種＋ラテン5種）を中心にまとめています。
 
 ## 目次
 
-- [10ダンスについて](#10ダンスについて)
+- [10ダンス](#10ダンス)
+- [統括団体・競技会](#統括団体競技会)
+- [テクニック・教師団体](#テクニック教師団体)
+- [学習・チュートリアル](#学習チュートリアル)
 - [コミュニティ・フォーラム](#コミュニティフォーラム)
-- [ステップ・チュートリアル](#ステップチュートリアル)
-- [競技会・統括団体](#競技会統括団体)
-- [ダンスファッション・衣装](#ダンスファッション衣装)
-- [ダンスミュージック](#ダンスミュージック)
-- [ダンス関連ソフトウェア](#ダンス関連ソフトウェア)
-- [ダンス雑誌](#ダンス雑誌)
-- [パーティー・イベント情報](#パーティーイベント情報)
-- [日本の学生競技ダンス・関連団体](#日本の学生競技ダンス関連団体)
+- [音楽](#音楽)
+- [ファッション・衣装・シューズ](#ファッション衣装シューズ)
+- [競技ソフトウェア・結果](#競技ソフトウェア結果)
+- [雑誌・ニュース](#雑誌ニュース)
+- [日本](#日本)
+- [コントリビューション](#コントリビューション)
 
-## 10ダンスについて
+---
 
-### モダン（スタンダード）
+## 10ダンス
+
+インターナショナルスタイルの競技ボールルーム（ダンススポーツ）。
+
+### スタンダード（モダン）
+
 - ワルツ
 - タンゴ
 - ヴェニーズワルツ（ウィンナーワルツ）
@@ -27,88 +35,145 @@
 - クイックステップ
 
 ### ラテン
+
 - チャチャチャ
 - サンバ
 - ルンバ
 - パソドブレ
 - ジャイブ
 
-- [Ballroom dance - Wikipedia（英語）](https://en.wikipedia.org/wiki/Ballroom_dance) - ボールルームダンスの歴史とスタイルの概要。
-- [The 19 Different Types of Ballroom Dance - DanceVision（英語）](https://blog.dancevision.com/the-19-different-types-of-ballroom-dance) - スタンダード・ラテンなど各スタイルの解説。
-- [Breaking Down Competitive Ballroom Dance Styles - Dance Spirit（英語）](https://dancespirit.com/breaking-down-ballroom-styles/) - 競技用10ダンスの紹介。
+- [Ballroom dance — Wikipedia（英語）](https://en.wikipedia.org/wiki/Ballroom_dance) - 歴史とスタイル（インターナショナル・スタンダード／ラテンなど）の概要。
+- [Breaking Down Competitive Ballroom Dance Styles — Dance Spirit（英語）](https://dancespirit.com/breaking-down-ballroom-styles/) - 競技用10ダンスの短い紹介。
+- [WDSF Rules & documents（英語）](https://www.worlddancesport.org/Rules) - 公式の競技ルール、シラバス関連、審判資料。
+
+---
+
+## 統括団体・競技会
+
+国際団体と主要な国内団体、代表的な大会。
+
+- [世界ダンススポーツ連盟（WDSF）（英語）](https://www.worlddancesport.org/) - IOC公認のダンススポーツ国際統括団体（スタンダード、ラテン、ブレイキンなど）。
+- [World Dance Council（WDC）（英語）](https://www.wdcdance.com/) - プロ競技・社交ダンスの世界的権威。ランキングと選手権カレンダー。
+- [Blackpool Dance Festival（英語）](https://blackpooldancefestival.com/) - 世界屈指の年次ボールルームフェスティバル（ブラックプール Winter Gardens）。エントリーと結果。
+- [USA Dance（英語）](https://usadance.org/) - 米国のダンススポーツ統括（USOPC Recognized Sport Organization）。
+- [National Dance Council of America（NDCA）（英語）](https://www.ndca.org/) - 米国のプロ／ProAm競技の枠組みとシラバス。
+- [WikiDanceSport（英語）](https://www.wikidancesport.com/) - ダンサー・大会・歴史のコミュニティ百科。
+
+---
+
+## テクニック・教師団体
+
+試験・指導で世界的に参照されるシラバスとテクニック資料。
+
+- [Imperial Society of Teachers of Dancing（ISTD）（英語）](https://www.istd.org/) - 主要な試験団体。ボールルーム／ラテン教員ネットワーク。
+- [The Ballroom Technique Syllabus — ISTD shop（英語）](https://shop.istd.org/shop/books/item-the-ballroom-technique/) - 定番のスタンダード技法書（Alex Moore系チャート形式）。
+- [International Dance Teachers' Association（IDTA）（英語）](https://idta.co.uk/) - ダンス教師団体・資格付与機関。シラバスPDFを無料公開。
+- [IDTA Syllabi downloads（英語）](https://idta.co.uk/syllabi/) - アマチュア／プロ向けボールルーム・ラテン等のシラバス。
+- [Dance Vision（英語）](https://dancevision.com/) - シラバス動画・教員認定などの学習エコシステム。
+
+---
+
+## 学習・チュートリアル
+
+初心者向け動画・パターン資料（試験／競技は資格のある教師と併用を推奨）。
+
+- [LearnToDance.com — Ballroom lessons（英語）](https://www.learntodance.com/online-ballroom-dance-lessons/) - ワルツ・チャチャ・ルンバ・フォックストロット・タンゴなどの無料初心者講座。
+- [Passion4Dancing — How to Ballroom Dance（英語）](https://www.passion4dancing.com/how-to-ballroom-dance/) - 動画レッスン付きの入門ガイド。
+- [Ballroom Feed（英語）](https://www.ballroomfeed.com/) - カップル向けステップ解説（社交・ウェディング・ボールルーム）。
+- [Image Ballroom Dance Academy — Tutorials（英語）](https://www.imageballroomdance.com/tutorials) - 複数ダンスのテクニック解説。
+- [Basic Ballroom Dance Steps（YouTube再生リスト）](https://www.youtube.com/playlist?list=PLgM0bfYIGz3ReaVcbVGukGUwHeySswC52) - 初心者向け基本ステップ集。
+
+---
 
 ## コミュニティ・フォーラム
 
-- [Dance Forums（英語）](https://www.dance-forums.com/) - [ボールルームダンス専用フォーラム](https://www.dance-forums.com/forums/ballroom-dance.7/)を含む総合ダンスコミュニティ。
-- [BallroomDancers.com Message Board（英語）](https://www.ballroomdancers.com/Message_Board/?forum=1) - 老舗のボールルームダンス専用掲示板。
-- [Passion4Dancing Forum（英語）](https://www.passion4dancing.com/members-forum/) - 世界中のダンサーが参加するコミュニティフォーラム。
-- [r/Dance（Reddit・英語）](https://www.reddit.com/r/Dance/) - クラス・衣装・振付などを議論する総合ダンスサブレディット。
+- [Dance Forums — Ballroom（英語）](https://www.dance-forums.com/forums/ballroom-dance.7/) - ボールルーム専用セクションを持つ老舗フォーラム。
+- [BallroomDancers.com Message Board（英語）](https://www.ballroomdancers.com/Message_Board/?forum=1) - ボールルーム専用の掲示板。
+- [r/Ballroom（Reddit・英語）](https://www.reddit.com/r/Ballroom/) - 競技・社交ボールルーム／ダンススポーツの議論。
+- [r/Dance（Reddit・英語）](https://www.reddit.com/r/Dance/) - クラス・衣装・振付など総合ダンスのコミュニティ。
 
-## ステップ・チュートリアル
+---
 
-- [LearnToDance.com（英語）](https://www.learntodance.com/online-ballroom-dance-lessons/) - ワルツ・チャチャ・ルンバ・フォックストロット・タンゴなどの無料動画レッスン。
-- [Passion4Dancing - How to Ballroom Dance（英語）](https://www.passion4dancing.com/how-to-ballroom-dance/) - 500本以上の動画を含む初心者向けガイド。
-- [Ballroom Feed（英語）](https://www.ballroomfeed.com/) - パターンとテクニックのステップ解説。
-- [Image Ballroom Dance Academy - Tutorials（英語）](https://www.imageballroomdance.com/tutorials) - 各種ダンスのテクニック解説。
-- [Basic Ballroom Dance Steps（YouTube再生リスト）](https://www.youtube.com/playlist?list=PLgM0bfYIGz3ReaVcbVGukGUwHeySswC52) - 初心者向け基本ステップの動画集。
+## 音楽
 
-## 競技会・統括団体
+ダンス種別・テンポ（BPM／MPM）で整理されたライブラリとプレイリスト。
 
-- [世界ダンススポーツ連盟（WDSF）（英語）](https://www.worlddancesport.org/) - IOC公認のダンススポーツ国際統括団体。
-- [World Dance Council（WDC）- Wikipedia（英語）](https://en.wikipedia.org/wiki/World_Dance_Council) - もう一つの国際ダンススポーツ団体。
-- [USA Dance - Wikipedia（英語）](https://en.wikipedia.org/wiki/USA_Dance) - アメリカのダンススポーツ統括団体。
-- [United States Dance Championships - Wikipedia（英語）](https://en.wikipedia.org/wiki/United_States_Dance_Championships) - アメリカの主要ダンス競技会の一つ。
-- [WikiDanceSport（英語）](https://www.wikidancesport.com/) - 競技会・結果・歴史をまとめたWiki。
+- [Ballroom-Music.net（英語）](https://ballroom-music.net/) - スタンダード／ラテン楽曲の検索。テンポ並べ替えや決勝練習プレイヤー。
+- [Music4Dance（英語）](https://www.music4dance.net/dances/ballroom-competition-categories) - 競技カテゴリ別（インターナショナル・スタンダード／ラテン、アメリカン・スムース／リズム）の楽曲タグ。
+- [music4dance blog（英語）](https://music4dance.blog/) - DJ向けヒント、プレイリスト、テンポ案内。
+- [UCONN Ballroom Playlists（英語）](https://www.uconnballroom.com/members/ballroom-playlists) - スタイル・テンポ別の練習用プレイリスト。
+- [「The Sound of Ballroom」（Spotify）](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - ボールルーム楽曲のコミュニティプレイリスト。
 
-## ダンスファッション・衣装
+---
 
-- [Dress4Dance（英語）](https://dress4dance.com/) - ラテン・ボールルーム競技衣装、シューズ、アクセサリー。
+## ファッション・衣装・シューズ
+
+競技衣装と専門ダンスシューズ。
+
+### 衣装・ショップ
+
+- [Dress4Dance（英語）](https://dress4dance.com/) - ラテン／ボールルーム競技衣装、シューズ、アクセサリー。
 - [DanceShopper（英語）](https://www.danceshopper.com/) - スタンダード・スムース・ラテン競技用オーダードレス。
-- [Venus Dancewear（英語）](https://venusdancewear.com/ballroom-competition-dresses) - ボールルーム・ラテン競技用ドレス。
-- [DanceAndSway（英語）](https://www.danceandsway.com/collections/competition-wear) - ボールルーム・ラテン競技ウェア。
-- [Smartsdance（英語）](https://www.smartsdance.com/ballroom-dance-dresses/) - 手頃な価格のボールルームドレス・ガウン。
+- [Venus Dancewear（英語）](https://venusdancewear.com/ballroom-competition-dresses) - ボールルーム／ラテン競技ドレス。
+- [DanceAndSway（英語）](https://www.danceandsway.com/collections/competition-wear) - 競技ウェアのコレクション。
+- [Smartsdance（英語）](https://www.smartsdance.com/ballroom-dance-dresses/) - ボールルームドレス・ガウン。
 
-## ダンスミュージック
+### シューズ
 
-- [Ballroom-Music.net（英語）](https://ballroom-music.net/) - ダンス種別・テンポで検索できるスタンダード・ラテン楽曲ライブラリ。
-- [Music4Dance（英語）](https://www.music4dance.net/dances/ballroom-competition-categories) - 競技カテゴリ別に整理された楽曲データベース。
-- [music4dance blog - Playlists for Ballroom DJs（英語）](https://music4dance.blog/2025/03/10/playlists-for-ballroom-djs/) - ボールルームDJ向けのプレイリストとヒント。
-- [「The Sound of Ballroom」（Spotify）](https://open.spotify.com/playlist/24FlJf5U7AJ1AnlUY99TZD) - ボールルームダンス音楽のSpotifyプレイリスト。
-- [UCONN Ballroom Playlists（英語）](https://www.uconnballroom.com/members/ballroom-playlists) - ダンス種別・テンポ別の練習用プレイリスト。
+- [Supadance（英語）](https://www.supadance.com/) - 英国製ハンドメイドのボールルーム／ラテンシューズ（レディース・メンズ・ジュニア）。
+- [Ray Rose（英語）](https://www.rayrose.com/) - ボールルーム、ラテン、シアター、サルサ向けダンスシューズ。
+- [Freed of London（英語）](https://www.freedoflondon.com/) - 定番のダンスシューズメーカー（ボールルームほか）。
 
-## ダンス関連ソフトウェア
+---
 
-- [Easycomp（英語）](https://www.easycompsoftware.co.uk/) - 単発の競技会から大規模なボールルーム・ラテン選手権まで対応するスクルティニアリング（採点）ソフト。
-- [Scrutelle（英語）](https://scrutelle.software.informer.com/) - ブラックプール・ダンス・フェスティバルやUK選手権などで使われている採点ソフト。
-- [BDC Scoring System（英語）](https://bdc-scoring.com/) - PCとタブレットをサーバーに接続して使用するオンライン採点システム。
-- [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技会向けのWebベース採点システム。
-- [FALive（App Store・英語）](https://apps.apple.com/py/app/falive/id6502871498) - 競技会のライブ結果・ヒートリスト・プログラムを確認できるモバイルアプリ。
-- [danceConvention（App Store・英語）](https://apps.apple.com/ec/app/danceconvention/id1465283443) - イベント登録、電子採点、QRチェックインに対応するモバイルアプリ。
+## 競技ソフトウェア・結果
 
-## ダンス雑誌
+採点（スクルティニアリング）、エントリー、ライブ結果、運営ツール。
 
-- [DanceSport Magazine（英語）](https://www.onestepdanceshop.com/competitors-edge/dance-sport-news-and-information/) - 競技ダンスを扱う季刊誌。
-- [Dance Magazine（英語）](https://dancemagazine.com/) - ダンス業界全般を扱うメディアプラットフォーム。
-- [DanceWay Magazine Online（英語）](https://danceway.com/) - ダンス用語辞典、記事、クラシファイド広告、ニュースを掲載。
-- [Dance International - Wikipedia（英語）](https://en.wikipedia.org/wiki/Dance_International) - Dance International誌に関する情報。
+- [Easycomp（英語）](https://www.easycompsoftware.co.uk/) - 採点・競技運営スイート（ジャッジパッド、表示、結果）。
+- [Scrutelle（英語）](https://scrutineering.org/scrutelle/) - 大規模大会で使われる採点ソフト（ブラックプール系の実績）。[結果検索](https://scrutineering.org/cgi-bin/db0.pl)。
+- [O2CM（英語）](https://o2cm.com/) - 北米で広く使われるオンライン登録・運営・電子採点。
+- [BDC Scoring System（英語）](https://bdc-scoring.com/) - PC／タブレット連携のオンライン採点。
+- [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技向けWeb採点。
+- [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。
+- [danceConvention（App Store・英語）](https://apps.apple.com/app/danceconvention/id1465283443) - 登録、電子採点、QRチェックイン。
 
-## パーティー・イベント情報
+---
 
-- [DanceWay - News（英語）](https://danceway.com/news) - 最新のダンススポーツイベント情報。
-- [Dance Sport News & Information（Facebook・英語）](https://www.facebook.com/DanceSportNews/) - 競技会・ショーダンス・イベントに関するニュースと動画。
-- [Meetup - Social Ballroom Dance Parties（英語）](https://www.meetup.com/topics/social-ballroom-dance-parties/) - 各地の社交ダンスパーティーやグループを検索できる。
-- [Ballroom Dance Chicago - Events（英語）](https://www.ballroomdancechicago.com/new-events) - スタジオのダンスイベントカレンダーの例。
+## 雑誌・ニュース
 
-## 日本の学生競技ダンス・関連団体
+- [Dance Magazine（英語）](https://dancemagazine.com/) - ダンス業界全般のメディア。
+- [DanceWay（英語）](https://danceway.com/) - 用語辞典、記事、クラシファイド、[ニュース](https://danceway.com/news)。
+- [Dance Sport News & Information（Facebook・英語）](https://www.facebook.com/DanceSportNews/) - 競技会・ショーダンスのニュースと動画。
+- [Meetup — Social ballroom parties（英語）](https://www.meetup.com/topics/social-ballroom-dance-parties/) - 各地の社交ダンスパーティー／グループ検索。
 
-日本の大学競技ダンス連盟（学連）やOB/OG会、主要なダンススポーツ統括団体のリンク集です。
+---
 
-- [全日本学生競技ダンス連盟 OBOG競技会運営委員会](https://gakuren-dance-obog.official.jp/) - 各大学OBOG会への[リンクページ](https://gakuren-dance-obog.official.jp/7-link.php)を含む。
-- [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - 東京大学競技ダンス部のOB・OG会サイト。
+## 日本
+
+国内のダンススポーツ統括団体、大学競技ダンス（学連）、関連組織。
+
+### 全国団体
+
 - [公益財団法人 日本ボールルームダンス連盟（JBDF）](https://www.jbdf.or.jp/) - 日本ボールルームダンス連盟。
-- [公益社団法人 日本ダンススポーツ連盟（JDSF）](https://www.jdsf.or.jp/) - 日本ダンススポーツ連盟。
-- [公益社団法人 日本ダンス議会（JDC）](https://jdc-dance.org/) - 日本ダンス議会。
-- [日本プロフェッショナルダンス競技連盟 東部総局（JCF）](https://www.jcf-tokyo.com/) - 日本プロフェッショナルダンス競技連盟 東部総局。
+- [公益社団法人 日本ダンススポーツ連盟（JDSF）](https://www.jdsf.or.jp/) - 日本ダンススポーツ連盟（WDSF加盟の文脈）。
+- [公益社団法人 日本ダンス議会（JDC）](https://jdc-dance.org/) - 全日本選手権や教師／審査員試験など。
+- [日本プロフェッショナルダンス競技連盟 東部総局（JCF）](https://www.jcf-tokyo.com/) - プロ競技連盟の東部総局。
+
+### 大学競技ダンス（学連）
+
+- [全日本学生競技ダンス連盟 OBOG競技会運営委員会](https://gakuren-dance-obog.official.jp/) - 学連OB/OG競技会運営。各大学OB/OGへの[リンク一覧](https://gakuren-dance-obog.official.jp/7-link.php)。
+- [東部日本学生競技ダンス連盟](https://tobugakuren.com/) - 東部学連（試合予定・結果）。
+- [関西学生競技ダンス連盟](https://kansai-gakuren.jp/) - 関西学連。
+- [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - 東大競技ダンス部のOB・OG会。
+
+---
+
+## コントリビューション
+
+コントリビューション歓迎です。リソース追加、リンク切れ修正、カテゴリ提案はプルリクエストでどうぞ。
+
+**公式／ドキュメントの耐久性のある URL**、短い説明、継続的に維持されているリソースを優先してください。製品名・団体名はそのまま。言語や地域は分かるように書くと親切です。
 
 ## ライセンス
 
