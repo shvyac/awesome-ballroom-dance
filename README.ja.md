@@ -52,9 +52,11 @@
 
 国際団体と主要な国内団体、代表的な大会。
 
-- [世界ダンススポーツ連盟（WDSF）（英語）](https://www.worlddancesport.org/) - IOC公認のダンススポーツ国際統括団体（スタンダード、ラテン、ブレイキンなど）。
+- [世界ダンススポーツ連盟（WDSF）（英語）](https://www.worlddancesport.org/) - IOC公認のダンススポーツ国際統括団体（スタンダード、ラテン、ブレイキンなど）。旧（レガシー）サイトは2026年10月1日に閉鎖されるため、古いブックマークは現行サイトへ更新を。
+- [WDSF Live streams（英語）](https://www.worlddancesport.org/Live) - WDSF競技会の無料ライブ配信とアーカイブ（スタンダード、ラテン、ブレイキンなど）。
+- [WDSF Competition results（英語）](https://www.worlddancesport.org/Calendar/Results) - 競技会カレンダーと結果データベース。種目・年齢区分・国で絞り込み可能。
 - [World Dance Council（WDC）（英語）](https://www.wdcdance.com/) - プロ競技・社交ダンスの世界的権威。ランキングと選手権カレンダー。
-- [Blackpool Dance Festival（英語）](https://blackpooldancefestival.com/) - 世界屈指の年次ボールルームフェスティバル（ブラックプール Winter Gardens）。エントリーと結果。
+- [Blackpool Dance Festival（英語）](https://blackpooldancefestival.com/) - 世界屈指の年次ボールルームフェスティバル（ブラックプール Winter Gardens）。エントリー、結果、[配信案内](https://blackpooldancefestival.com/streaming/)。
 - [USA Dance（英語）](https://usadance.org/) - 米国のダンススポーツ統括（USOPC Recognized Sport Organization）。
 - [National Dance Council of America（NDCA）（英語）](https://www.ndca.org/) - 米国のプロ／ProAm競技の枠組みとシラバス。
 - [WikiDanceSport（英語）](https://www.wikidancesport.com/) - ダンサー・大会・歴史のコミュニティ百科。
@@ -66,10 +68,10 @@
 試験・指導で世界的に参照されるシラバスとテクニック資料。
 
 - [Imperial Society of Teachers of Dancing（ISTD）（英語）](https://www.istd.org/) - 主要な試験団体。ボールルーム／ラテン教員ネットワーク。
-- [The Ballroom Technique Syllabus — ISTD shop（英語）](https://shop.istd.org/shop/books/item-the-ballroom-technique/) - 定番のスタンダード技法書（Alex Moore系チャート形式）。
+- [The Ballroom Technique Syllabus — ISTD shop（英語）](https://shop.istd.org/product/item-the-ballroom-technique/) - 定番のスタンダード技法書（Alex Moore系チャート形式）。
 - [International Dance Teachers' Association（IDTA）（英語）](https://idta.co.uk/) - ダンス教師団体・資格付与機関。シラバスPDFを無料公開。
 - [IDTA Syllabi downloads（英語）](https://idta.co.uk/syllabi/) - アマチュア／プロ向けボールルーム・ラテン等のシラバス。
-- [Dance Vision（英語）](https://dancevision.com/) - シラバス動画・教員認定などの学習エコシステム。
+- [Dance Vision（英語）](https://dancevision.com/) - 米国のボールルームスタジオ網と Dance Vision Syllabus プラットフォーム（オンラインのシラバス動画、教員認定）。
 
 ---
 
@@ -88,7 +90,7 @@
 ## コミュニティ・フォーラム
 
 - [Dance Forums — Ballroom（英語）](https://www.dance-forums.com/forums/ballroom-dance.7/) - ボールルーム専用セクションを持つ老舗フォーラム。
-- [BallroomDancers.com Message Board（英語）](https://www.ballroomdancers.com/Message_Board/?forum=1) - ボールルーム専用の掲示板。
+- [BallroomDancers.com Message Board（英語）](https://www.ballroomdancers.com/Message_Board/?forum=1) - ボールルーム専用の掲示板（現在は投稿が少なく、主にアーカイブとして有用）。
 - [r/Ballroom（Reddit・英語）](https://www.reddit.com/r/Ballroom/) - 競技・社交ボールルーム／ダンススポーツの議論。
 - [r/Dance（Reddit・英語）](https://www.reddit.com/r/Dance/) - クラス・衣装・振付など総合ダンスのコミュニティ。
 
@@ -131,11 +133,11 @@
 採点（スクルティニアリング）、エントリー、ライブ結果、運営ツール。
 
 - [Easycomp（英語）](https://www.easycompsoftware.co.uk/) - 採点・競技運営スイート（ジャッジパッド、表示、結果）。
-- [Scrutelle（英語）](https://scrutineering.org/scrutelle/) - 大規模大会で使われる採点ソフト（ブラックプール系の実績）。[結果検索](https://scrutineering.org/cgi-bin/db0.pl)。
+- [Scrutelle（英語）](https://scrutineering.org/scrutelle/) - 大規模大会で使われる採点ソフト（ブラックプール系の実績）。[結果検索](https://scrutineering.org/cgi-bin/db0.pl)（アーカイブ、概ね2016〜2021年分）。
 - [O2CM（英語）](https://o2cm.com/) - 北米で広く使われるオンライン登録・運営・電子採点。
 - [BDC Scoring System（英語）](https://bdc-scoring.com/) - PC／タブレット連携のオンライン採点。
 - [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技向けWeb採点。
-- [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。
+- [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。[Google Play版](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic)もあり。
 - [danceConvention（App Store・英語）](https://apps.apple.com/app/danceconvention/id1465283443) - 登録、電子採点、QRチェックイン。
 
 ---
@@ -143,7 +145,8 @@
 ## 雑誌・ニュース
 
 - [Dance Magazine（英語）](https://dancemagazine.com/) - ダンス業界全般のメディア。
-- [DanceWay（英語）](https://danceway.com/) - 用語辞典、記事、クラシファイド、[ニュース](https://danceway.com/news)。
+- [DSI TV（英語）](https://www.dsi-london.tv/) - 主要なボールルーム／ラテン競技会のライブ・オンデマンド配信（有料、Blackpool Dance Festival 公式配信パートナー）。
+- [DanceWay（英語）](https://danceway.com/) - 用語辞典、記事、クラシファイド。更新はほぼ停止しており（2021年頃以降大きな更新なし）、アーカイブとして参照。
 - [Dance Sport News & Information（Facebook・英語）](https://www.facebook.com/DanceSportNews/) - 競技会・ショーダンスのニュースと動画。
 - [Meetup — Social ballroom parties（英語）](https://www.meetup.com/topics/social-ballroom-dance-parties/) - 各地の社交ダンスパーティー／グループ検索。
 

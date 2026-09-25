@@ -52,9 +52,11 @@ International Style competitive ballroom (often called DanceSport).
 
 International and major national organizations, plus landmark events.
 
-- [World DanceSport Federation (WDSF)](https://www.worlddancesport.org/) - IOC-recognized world governing body for DanceSport (Standard, Latin, Breaking, and more).
+- [World DanceSport Federation (WDSF)](https://www.worlddancesport.org/) - IOC-recognized world governing body for DanceSport (Standard, Latin, Breaking, and more). The legacy WDSF website closes on 1 October 2026 — update old bookmarks to the current site.
+- [WDSF Live streams](https://www.worlddancesport.org/Live) - Free live and archived streams of WDSF competitions (Standard, Latin, Breaking, and more).
+- [WDSF Competition results](https://www.worlddancesport.org/Calendar/Results) - Searchable calendar and results database, filterable by discipline, age group, and country.
 - [World Dance Council (WDC)](https://www.wdcdance.com/) - World authority for professional competitive and social dancing; rankings and championships calendar.
-- [Blackpool Dance Festival](https://blackpooldancefestival.com/) - The world's foremost annual ballroom festival (Winter Gardens, Blackpool); registration and results.
+- [Blackpool Dance Festival](https://blackpooldancefestival.com/) - The world's foremost annual ballroom festival (Winter Gardens, Blackpool); registration, results, and [streaming info](https://blackpooldancefestival.com/streaming/).
 - [USA Dance](https://usadance.org/) - USOPC Recognized Sport Organization for DanceSport in the United States.
 - [National Dance Council of America (NDCA)](https://www.ndca.org/) - Major US professional / ProAm competition framework and syllabi.
 - [WikiDanceSport](https://www.wikidancesport.com/) - Community encyclopedia of dancers, events, and DanceSport history.
@@ -66,10 +68,10 @@ International and major national organizations, plus landmark events.
 Durable syllabi and technique references used worldwide for exams and coaching.
 
 - [Imperial Society of Teachers of Dancing (ISTD)](https://www.istd.org/) - Major examination board; Ballroom and Latin faculties with global teacher network.
-- [The Ballroom Technique Syllabus — ISTD shop](https://shop.istd.org/shop/books/item-the-ballroom-technique/) - Classic chart-based Standard technique (Alex Moore lineage).
+- [The Ballroom Technique Syllabus — ISTD shop](https://shop.istd.org/product/item-the-ballroom-technique/) - Classic chart-based Standard technique (Alex Moore lineage).
 - [International Dance Teachers' Association (IDTA)](https://idta.co.uk/) - Dance teacher association and awarding body; free syllabus PDFs.
 - [IDTA Syllabi downloads](https://idta.co.uk/syllabi/) - Amateur and professional Ballroom/Latin syllabi (and related genres).
-- [Dance Vision](https://dancevision.com/) - Syllabus media and teacher certification resources (studio + online syllabus ecosystem).
+- [Dance Vision](https://dancevision.com/) - US ballroom studio network and the Dance Vision Syllabus platform (online syllabus videos, teacher certification).
 
 ---
 
@@ -88,7 +90,7 @@ Beginner-friendly video and pattern resources (pair with a qualified teacher for
 ## Community & forums
 
 - [Dance Forums — Ballroom](https://www.dance-forums.com/forums/ballroom-dance.7/) - Long-running general dance forums with a dedicated Ballroom section.
-- [BallroomDancers.com Message Board](https://www.ballroomdancers.com/Message_Board/?forum=1) - Classic ballroom discussion board.
+- [BallroomDancers.com Message Board](https://www.ballroomdancers.com/Message_Board/?forum=1) - Classic ballroom discussion board (low activity; useful mainly as an archive).
 - [r/Ballroom (Reddit)](https://www.reddit.com/r/Ballroom/) - Competitive and social ballroom / DanceSport discussion.
 - [r/Dance (Reddit)](https://www.reddit.com/r/Dance/) - Broader dance community (classes, costumes, choreography).
 
@@ -131,11 +133,11 @@ Competition wear and specialist dance footwear.
 Scrutineering, registration, live results, and organizer tooling.
 
 - [Easycomp](https://www.easycompsoftware.co.uk/) - Scrutineering and competition management suite (judging pads, displays, results).
-- [Scrutelle](https://scrutineering.org/scrutelle/) - Scrutineering software used at major events (incl. Blackpool lineage); [results search](https://scrutineering.org/cgi-bin/db0.pl).
+- [Scrutelle](https://scrutineering.org/scrutelle/) - Scrutineering software used at major events (incl. Blackpool lineage); [results search](https://scrutineering.org/cgi-bin/db0.pl) (archive, covers roughly 2016–2021).
 - [O2CM](https://o2cm.com/) - Online registration, event management, and electronic marking widely used in North America.
 - [BDC Scoring System](https://bdc-scoring.com/) - PC/tablet online scoring for ballroom competitions.
 - [Competition Scoring System](https://compe-scoring.com/) - Web-based scoring for dance competitions.
-- [FALive (App Store)](https://apps.apple.com/app/falive/id6502871498) - Live results, heat lists, and programs at ballroom comps.
+- [FALive (App Store)](https://apps.apple.com/app/falive/id6502871498) - Live results, heat lists, and programs at ballroom comps; also on [Google Play](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic).
 - [danceConvention (App Store)](https://apps.apple.com/app/danceconvention/id1465283443) - Registration, electronic scoring, and QR check-in.
 
 ---
@@ -143,7 +145,8 @@ Scrutineering, registration, live results, and organizer tooling.
 ## Magazines & news
 
 - [Dance Magazine](https://dancemagazine.com/) - Broad dance industry coverage (performance, training, culture).
-- [DanceWay](https://danceway.com/) - DanceSport dictionary, articles, classifieds, and [news](https://danceway.com/news).
+- [DSI TV](https://www.dsi-london.tv/) - Subscription live and on-demand streaming of major ballroom & Latin competitions (official Blackpool Dance Festival stream partner).
+- [DanceWay](https://danceway.com/) - DanceSport dictionary, articles, and classifieds; largely inactive archive (no significant updates since ~2021).
 - [Dance Sport News & Information (Facebook)](https://www.facebook.com/DanceSportNews/) - Competition and show-dance news/videos.
 - [Meetup — Social ballroom parties](https://www.meetup.com/topics/social-ballroom-dance-parties/) - Find local social ballroom groups and parties.
 
