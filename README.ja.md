@@ -169,6 +169,7 @@
 - [東部日本学生競技ダンス連盟](https://tobugakuren.com/) - 東部学連（試合予定・結果）。
 - [関西学生競技ダンス連盟](https://kansai-gakuren.jp/) - 関西学連。
 - [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - 東大競技ダンス部のOB・OG会。
+- [冬全 大学別ランキング 2021–2025](rankings/fuyuzen-ranking.ja.md) - 全日本学生競技ダンス選手権（冬全）の決勝順位をポイント化した大学別ランキング。大会別の決勝結果と出典リンク付き。
 
 ---
 

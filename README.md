@@ -169,6 +169,7 @@ National DanceSport bodies, university competitive dance (学連), and related o
 - [東部日本学生競技ダンス連盟](https://tobugakuren.com/) - Eastern Japan Student Competitive Dance Federation (schedules & results).
 - [関西学生競技ダンス連盟](https://kansai-gakuren.jp/) - Kansai Student Competitive Dance Federation.
 - [東京大学競技ダンス部OB・OG会](https://sites.google.com/site/dancetodaiobog/) - University of Tokyo Competitive Dance Club OB/OG Association.
+- [冬全 University Ranking 2021–2025](rankings/fuyuzen-ranking.ja.md) - University ranking built from the All-Japan Student DanceSport Championships (冬全) finals, scored by placing, with per-year results and source links (Japanese).
 
 ---
 
