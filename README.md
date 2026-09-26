@@ -14,6 +14,7 @@ A curated list of useful **ballroom / DanceSport** resources — styles, governi
 - [Learning & tutorials](#learning--tutorials)
 - [Community & forums](#community--forums)
 - [Music](#music)
+- [Practice tools](#practice-tools)
 - [Fashion, costumes & shoes](#fashion-costumes--shoes)
 - [Competition software & results](#competition-software--results)
 - [Magazines & news](#magazines--news)
@@ -108,6 +109,20 @@ Libraries and playlists organized by dance style and tempo (BPM / MPM).
 
 ---
 
+## Practice tools
+
+Music players built for ballroom practice (heat timing, tempo control) and video analysis for checking technique.
+
+- [BallroomDJ 4](https://ballroomdj4.sourceforge.io/) - Open-source ballroom music player (zlib license; Windows/macOS/Linux) with sequenced playlists by dance, speed/tempo adjustment, BPM counter, and mobile remote control.
+- [Ballroom Competition Trainer](https://apps.apple.com/us/app/ballroom-competition-trainer/id635693176) - Simulates competition rounds (dance order, heat length, breaks) for practice; also on [Google Play](https://play.google.com/store/apps/details?id=dk.krogholmit.bct.full).
+- [Ballroom Collection](https://eugweb.github.io/) - iOS training music players with adjustable heat durations, pauses, and speed; Apple Watch control.
+- [DanceTime Deluxe](https://www.wimbledonsound.com/dancetime-deluxe/) - iOS rhythm practice app with bar-per-minute tempo control, counting, and cue points.
+- [stepslow](https://github.com/dvorapa/stepslow) - Simple open-source music player for dancers with tempo control (Android, Flutter).
+- [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
+- [DanceMirror](https://dancemirror.app/) - Free web tool to mirror and slow down YouTube dance videos for practice.
+
+---
+
 ## Fashion, costumes & shoes
 
 Competition wear and specialist dance footwear.
@@ -139,6 +154,15 @@ Scrutineering, registration, live results, and organizer tooling.
 - [Competition Scoring System](https://compe-scoring.com/) - Web-based scoring for dance competitions.
 - [FALive (App Store)](https://apps.apple.com/app/falive/id6502871498) - Live results, heat lists, and programs at ballroom comps; also on [Google Play](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic).
 - [danceConvention (App Store)](https://apps.apple.com/app/danceconvention/id1465283443) - Registration, electronic scoring, and QR check-in.
+- [WDSF Certified Scrutiny Software](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - Official list of WDSF-certified scrutineering programs (TopTurnier, TPS.net, O2CM, Ballroom Comp Express, and more).
+
+### Open source
+
+- [showcase](https://github.com/rubys/showcase) - Ballroom showcase/competition manager (Rails, MIT): heat scheduling without double-booking, live score entry, printed reports, and invoicing.
+- [jUdge](https://github.com/fellmann/jUdge) - Open-source judging calculation library for DanceSport, including the Skating System (Java, Apache-2.0).
+- [BallroomSkatingSystem.jl](https://github.com/sdobber/BallroomSkatingSystem.jl) - Skating System (majority system) calculation in Julia.
+- [danceinterpreter-rs](https://github.com/klassenserver7b/danceinterpreter-rs) - Displays the current song and its dance on screen at ballroom events (Rust).
+- [WDSF-API](https://github.com/jaykay-design/WDSF-API) - Client library for the WDSF API (rankings, athletes, competitions; C#).
 
 ---
 

@@ -14,6 +14,7 @@
 - [学習・チュートリアル](#学習チュートリアル)
 - [コミュニティ・フォーラム](#コミュニティフォーラム)
 - [音楽](#音楽)
+- [練習ツール](#練習ツール)
 - [ファッション・衣装・シューズ](#ファッション衣装シューズ)
 - [競技ソフトウェア・結果](#競技ソフトウェア結果)
 - [雑誌・ニュース](#雑誌ニュース)
@@ -108,6 +109,20 @@
 
 ---
 
+## 練習ツール
+
+ボールルーム練習用の音楽プレーヤー（ヒート時間・テンポ調整）と、テクニック確認のための動画分析ツール。
+
+- [BallroomDJ 4（英語）](https://ballroomdj4.sourceforge.io/) - オープンソースのボールルーム用音楽プレーヤー（zlibライセンス、Windows／Mac／Linux）。種目順の自動プレイリスト、テンポ変更、BPM計測、スマホからの操作。
+- [Ballroom Competition Trainer（英語）](https://apps.apple.com/us/app/ballroom-competition-trainer/id635693176) - 競技会と同じ形式（種目順・曲の長さ・休憩）で練習できるアプリ。[Google Play版](https://play.google.com/store/apps/details?id=dk.krogholmit.bct.full)もあり。
+- [Ballroom Collection（英語）](https://eugweb.github.io/) - ヒートの長さ・休憩・テンポを設定できるiOS用練習プレーヤー。Apple Watchで操作可能。
+- [DanceTime Deluxe（英語）](https://www.wimbledonsound.com/dancetime-deluxe/) - 1小節単位のテンポ調整、カウント、キューポイント付きのiOS用リズム練習アプリ。
+- [stepslow（英語）](https://github.com/dvorapa/stepslow) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
+- [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
+- [DanceMirror（英語）](https://dancemirror.app/) - YouTubeのダンス動画を左右反転・スロー再生できる無料Webツール。
+
+---
+
 ## ファッション・衣装・シューズ
 
 競技衣装と専門ダンスシューズ。
@@ -139,6 +154,15 @@
 - [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技向けWeb採点。
 - [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。[Google Play版](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic)もあり。
 - [danceConvention（App Store・英語）](https://apps.apple.com/app/danceconvention/id1465283443) - 登録、電子採点、QRチェックイン。
+- [WDSF Certified Scrutiny Software（英語）](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - WDSF公認の採点ソフト一覧（TopTurnier、TPS.net、O2CM、Ballroom Comp Expressなど）。
+
+### オープンソース
+
+- [showcase（英語）](https://github.com/rubys/showcase) - ショーケース型競技会の運営システム（Rails、MIT）。重複出場を避けたヒート編成、リアルタイム採点入力、帳票、請求管理。
+- [jUdge（英語）](https://github.com/fellmann/jUdge) - スケーティングシステムなどダンススポーツの採点計算ライブラリ（Java、Apache-2.0）。
+- [BallroomSkatingSystem.jl（英語）](https://github.com/sdobber/BallroomSkatingSystem.jl) - スケーティングシステム（多数決方式）の計算（Julia）。
+- [danceinterpreter-rs（英語）](https://github.com/klassenserver7b/danceinterpreter-rs) - パーティーや競技会で、流れている曲と種目を画面に表示（Rust）。
+- [WDSF-API（英語）](https://github.com/jaykay-design/WDSF-API) - WDSF APIのクライアントライブラリ（ランキング・選手・競技会データ、C#）。
 
 ---
 
