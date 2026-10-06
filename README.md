@@ -53,11 +53,11 @@ International Style competitive ballroom (often called DanceSport).
 
 International and major national organizations, plus landmark events.
 
-- [World DanceSport Federation (WDSF)](https://www.worlddancesport.org/) - IOC-recognized world governing body for DanceSport (Standard, Latin, Breaking, and more). The legacy WDSF website closes on 1 October 2026 — update old bookmarks to the current site.
+- [World DanceSport Federation (WDSF)](https://www.worlddancesport.org/) - IOC-recognized world governing body for DanceSport (Standard, Latin, Breaking, and more). The legacy WDSF website was permanently closed on 1 October 2026 and all calendars, rankings, and rules now live on the current site ([notice](https://www.worlddancesport.org/News/newswdsf-notice-closure-of-legacy-website-2026-3911)) — update old bookmarks.
 - [WDSF Live streams](https://www.worlddancesport.org/Live) - Free live and archived streams of WDSF competitions (Standard, Latin, Breaking, and more).
 - [WDSF Competition results](https://www.worlddancesport.org/Calendar/Results) - Searchable calendar and results database, filterable by discipline, age group, and country.
 - [World Dance Council (WDC)](https://www.wdcdance.com/) - World authority for professional competitive and social dancing; rankings and championships calendar.
-- [Blackpool Dance Festival](https://blackpooldancefestival.com/) - The world's foremost annual ballroom festival (Winter Gardens, Blackpool); registration, results, and [streaming info](https://blackpooldancefestival.com/streaming/).
+- [Blackpool Dance Festival](https://blackpooldancefestival.com/) - The world's foremost annual ballroom festival (Winter Gardens, Blackpool), which celebrated its 100th anniversary in May 2026; registration, results, and [streaming info](https://blackpooldancefestival.com/streaming/).
 - [USA Dance](https://usadance.org/) - USOPC Recognized Sport Organization for DanceSport in the United States.
 - [National Dance Council of America (NDCA)](https://www.ndca.org/) - Major US professional / ProAm competition framework and syllabi.
 - [WikiDanceSport](https://www.wikidancesport.com/) - Community encyclopedia of dancers, events, and DanceSport history.
@@ -83,7 +83,7 @@ Beginner-friendly video and pattern resources (pair with a qualified teacher for
 - [LearnToDance.com — Ballroom lessons](https://www.learntodance.com/online-ballroom-dance-lessons/) - Free beginner video courses (Waltz, Cha Cha, Rumba, Foxtrot, Tango, and more).
 - [Passion4Dancing — How to Ballroom Dance](https://www.passion4dancing.com/how-to-ballroom-dance/) - Starter guides with extensive video lessons.
 - [Ballroom Feed](https://www.ballroomfeed.com/) - Step-by-step online lessons for couples (social, wedding, and ballroom patterns).
-- [Image Ballroom Dance Academy — Tutorials](https://www.imageballroomdance.com/tutorials) - Technique-oriented tutorials across multiple dances.
+- [Image Ballroom Dance Academy — Tutorials](https://www.imageballroomdance.com/tutorials) - Studio tutorial page, currently focused on Cha Cha technique.
 - [Basic Ballroom Dance Steps (YouTube playlist)](https://www.youtube.com/playlist?list=PLgM0bfYIGz3ReaVcbVGukGUwHeySswC52) - Beginner step playlist.
 
 ---
@@ -115,8 +115,9 @@ Music players built for ballroom practice (heat timing, tempo control) and video
 
 - [BallroomDJ 4](https://ballroomdj4.sourceforge.io/) - Open-source ballroom music player (zlib license; Windows/macOS/Linux) with sequenced playlists by dance, speed/tempo adjustment, BPM counter, and mobile remote control.
 - [Ballroom Competition Trainer](https://apps.apple.com/us/app/ballroom-competition-trainer/id635693176) - Simulates competition rounds (dance order, heat length, breaks) for practice; also on [Google Play](https://play.google.com/store/apps/details?id=dk.krogholmit.bct.full).
-- [Ballroom Collection](https://eugweb.github.io/) - iOS training music players with adjustable heat durations, pauses, and speed; Apple Watch control.
+- [Ballroom Collection](https://eugweb.github.io/) - Training Music / Training Music Player: iOS training music players with adjustable heat durations, pauses, and speed; Apple Watch control.
 - [DanceTime Deluxe](https://www.wimbledonsound.com/dancetime-deluxe/) - iOS rhythm practice app with bar-per-minute tempo control, counting, and cue points.
+- [DanceLog](https://apps.apple.com/us/app/dancelog-latin-ballroom/id6746336322) - iPhone / Apple Watch training tracker for Ballroom & Latin dancers: practice logs and stats, final-round simulation with Apple Music, lesson notes, and WDSF results / world ranking integration (free, optional Pro subscription).
 - [stepslow](https://github.com/dvorapa/stepslow) - Simple open-source music player for dancers with tempo control (Android, Flutter).
 - [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
 - [DanceMirror](https://dancemirror.app/) - Free web tool to mirror and slow down YouTube dance videos for practice.
@@ -154,14 +155,14 @@ Scrutineering, registration, live results, and organizer tooling.
 - [Competition Scoring System](https://compe-scoring.com/) - Web-based scoring for dance competitions.
 - [FALive (App Store)](https://apps.apple.com/app/falive/id6502871498) - Live results, heat lists, and programs at ballroom comps; also on [Google Play](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic).
 - [danceConvention (App Store)](https://apps.apple.com/app/danceconvention/id1465283443) - Registration, electronic scoring, and QR check-in.
-- [WDSF Certified Scrutiny Software](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - Official list of WDSF-certified scrutineering programs (TopTurnier, TPS.net, O2CM, Ballroom Comp Express, and more).
+- [WDSF Certified Scrutiny Software](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - Official list of WDSF-certified scrutineering programs (TopTurnier, TPS.net, DanceWork, Contaste, O2CM, Ballroom Comp Express, and more); certification requirements are documented in [WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification).
 
 ### Open source
 
 - [showcase](https://github.com/rubys/showcase) - Ballroom showcase/competition manager (Rails, MIT): heat scheduling without double-booking, live score entry, printed reports, and invoicing.
 - [jUdge](https://github.com/fellmann/jUdge) - Open-source judging calculation library for DanceSport, including the Skating System (Java, Apache-2.0).
 - [BallroomSkatingSystem.jl](https://github.com/sdobber/BallroomSkatingSystem.jl) - Skating System (majority system) calculation in Julia.
-- [danceinterpreter-rs](https://github.com/klassenserver7b/danceinterpreter-rs) - Displays the current song and its dance on screen at ballroom events (Rust).
+- [danceinterpreter-rs](https://github.com/klassenserver7b/danceinterpreter-rs) - Displays the current song and its dance on screen at ballroom events (Rust, GPL-3.0; M3U / Traktor Pro playlists, available on Flathub).
 - [WDSF-API](https://github.com/jaykay-design/WDSF-API) - Client library for the WDSF API (rankings, athletes, competitions; C#).
 
 ---
