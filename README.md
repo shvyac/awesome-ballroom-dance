@@ -15,6 +15,7 @@ A curated list of useful **ballroom / DanceSport** resources — styles, governi
 - [Community & forums](#community--forums)
 - [Music](#music)
 - [Practice tools](#practice-tools)
+- [3D motion & animation](#3d-motion--animation)
 - [Fashion, costumes & shoes](#fashion-costumes--shoes)
 - [Competition software & results](#competition-software--results)
 - [Magazines & news](#magazines--news)
@@ -121,7 +122,14 @@ Music players built for ballroom practice (heat timing, tempo control) and video
 - [stepslow](https://github.com/dvorapa/stepslow) - Simple open-source music player for dancers with tempo control (Android, Flutter).
 - [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
 - [DanceMirror](https://dancemirror.app/) - Free web tool to mirror and slow down YouTube dance videos for practice.
-- [3D motion & animation tools](motion-3d.md) - Separate page: open-source motion capture, ballroom motion data, and rendering tools for making 10-dance teaching videos (steps, floor patterns, body sway).
+
+---
+
+## 3D motion & animation
+
+Turning ballroom / Latin dancing into 3D motion data and teaching videos — footwork, floor patterns, and body sway / rotation for the 10 dances.
+
+- [3D Motion & Animation Tools for Ballroom Dance](motion-3d.md) - Separate page: video-to-3D motion capture (GVHMR, WHAM, 4D-Humans, FreeMoCap, EasyMocap), ballroom and duet motion data (Dancing Points, Duolando, InterDance, HASC BDD), rendering with Blender / three.js, and a suggested workflow for making teaching videos.
 
 ---
 
