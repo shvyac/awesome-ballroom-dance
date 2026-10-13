@@ -121,6 +121,7 @@
 - [stepslow（英語）](https://github.com/dvorapa/stepslow) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
 - [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
 - [DanceMirror（英語）](https://dancemirror.app/) - YouTubeのダンス動画を左右反転・スロー再生できる無料Webツール。
+- [3D モーション・アニメーションツール](motion-3d.ja.md) - 別ページ：10ダンスの教材動画（ステップ、フロアの進行、ボディのスウェイ）を作るためのオープンソースのモーキャプ、社交ダンスのモーションデータ、描画ツール。
 
 ---
 

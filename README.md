@@ -121,6 +121,7 @@ Music players built for ballroom practice (heat timing, tempo control) and video
 - [stepslow](https://github.com/dvorapa/stepslow) - Simple open-source music player for dancers with tempo control (Android, Flutter).
 - [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
 - [DanceMirror](https://dancemirror.app/) - Free web tool to mirror and slow down YouTube dance videos for practice.
+- [3D motion & animation tools](motion-3d.md) - Separate page: open-source motion capture, ballroom motion data, and rendering tools for making 10-dance teaching videos (steps, floor patterns, body sway).
 
 ---
 
