@@ -4,7 +4,7 @@
 
 [日本語版はこちら / Japanese](README.ja.md)
 
-A curated list of useful **ballroom / DanceSport** resources — styles, governing bodies, technique, learning, music, competitions, costumes & shoes, software, and the Japan scene — focused on the International Style **10 Dances** (5 Standard + 5 Latin).
+A curated list of useful **ballroom / DanceSport** resources — styles, governing bodies, technique, learning, music, competitions, costumes & shoes, software, and the Japan scene — focused on the International Style **10 Dances** (5 Standard + 5 Latin). ⭐ badges show live GitHub star counts (via shields.io).
 
 ## Contents
 
@@ -120,8 +120,9 @@ Music players built for ballroom practice (heat timing, tempo control) and video
 - [Ballroom Collection](https://eugweb.github.io/) - Training Music / Training Music Player: iOS training music players with adjustable heat durations, pauses, and speed; Apple Watch control.
 - [DanceTime Deluxe](https://www.wimbledonsound.com/dancetime-deluxe/) - iOS rhythm practice app with bar-per-minute tempo control, counting, and cue points.
 - [DanceLog](https://apps.apple.com/us/app/dancelog-latin-ballroom/id6746336322) - iPhone / Apple Watch training tracker for Ballroom & Latin dancers: practice logs and stats, final-round simulation with Apple Music, lesson notes, and WDSF results / world ranking integration (free, optional Pro subscription).
-- [stepslow](https://github.com/dvorapa/stepslow) - Simple open-source music player for dancers with tempo control (Android, Flutter).
-- [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
+- [DanzDB](https://apps.apple.com/us/app/danzdb/id6759789833) - Offline iPhone / iPad reference for 200+ ballroom and Latin figures across 15 dances (the 10 dances plus Discofox, Salsa, and more); free with a one-time full-version unlock.
+- [stepslow](https://github.com/dvorapa/stepslow) ![GitHub stars](https://img.shields.io/github/stars/dvorapa/stepslow?style=flat&label=%E2%AD%90) - Simple open-source music player for dancers with tempo control (Android, Flutter).
+- [Kinovea](https://www.kinovea.org/) - Free, open-source video analysis ([GitHub](https://github.com/Kinovea/Kinovea) ![GitHub stars](https://img.shields.io/github/stars/Kinovea/Kinovea?style=flat&label=%E2%AD%90), GPL-2.0; Windows): slow motion, side-by-side comparison, annotation, and angle measurement.
 - [DanceMirror](https://dancemirror.app/) - Free web tool to mirror and slow down YouTube dance videos for practice.
 
 ---
@@ -165,15 +166,16 @@ Scrutineering, registration, live results, and organizer tooling.
 - [Competition Scoring System](https://compe-scoring.com/) - Web-based scoring for dance competitions.
 - [FALive (App Store)](https://apps.apple.com/app/falive/id6502871498) - Live results, heat lists, and programs at ballroom comps; also on [Google Play](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic).
 - [danceConvention (App Store)](https://apps.apple.com/app/danceconvention/id1465283443) - Registration, electronic scoring, and QR check-in.
-- [WDSF Certified Scrutiny Software](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - Official list of WDSF-certified scrutineering programs (TopTurnier, TPS.net, DanceWork, Contaste, O2CM, Ballroom Comp Express, and more); certification requirements are documented in [WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification).
+- [WDSF Certified Scrutiny Software](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - Official list of WDSF-certified scrutineering programs (TopTurnier, TPS.net, DanceWork, Contaste, O2CM, Ballroom Comp Express, and more); certification requirements are documented in [WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-Competition-Software-Certification?style=flat&label=%E2%AD%90).
 
 ### Open source
 
-- [showcase](https://github.com/rubys/showcase) - Ballroom showcase/competition manager (Rails, MIT): heat scheduling without double-booking, live score entry, printed reports, and invoicing.
-- [jUdge](https://github.com/fellmann/jUdge) - Open-source judging calculation library for DanceSport, including the Skating System (Java, Apache-2.0).
-- [BallroomSkatingSystem.jl](https://github.com/sdobber/BallroomSkatingSystem.jl) - Skating System (majority system) calculation in Julia.
-- [danceinterpreter-rs](https://github.com/klassenserver7b/danceinterpreter-rs) - Displays the current song and its dance on screen at ballroom events (Rust, GPL-3.0; M3U / Traktor Pro playlists, available on Flathub).
-- [WDSF-API](https://github.com/jaykay-design/WDSF-API) - Client library for the WDSF API (rankings, athletes, competitions; C#).
+- [showcase](https://github.com/rubys/showcase) ![GitHub stars](https://img.shields.io/github/stars/rubys/showcase?style=flat&label=%E2%AD%90) - Ballroom showcase/competition manager (Rails, MIT): heat scheduling without double-booking, live score entry, printed reports, and invoicing.
+- [jUdge](https://github.com/fellmann/jUdge) ![GitHub stars](https://img.shields.io/github/stars/fellmann/jUdge?style=flat&label=%E2%AD%90) - Open-source judging calculation library for DanceSport, including the Skating System (Java, Apache-2.0).
+- [BallroomSkatingSystem.jl](https://github.com/sdobber/BallroomSkatingSystem.jl) ![GitHub stars](https://img.shields.io/github/stars/sdobber/BallroomSkatingSystem.jl?style=flat&label=%E2%AD%90) - Skating System (majority system) calculation in Julia.
+- [danceinterpreter-rs](https://github.com/klassenserver7b/danceinterpreter-rs) ![GitHub stars](https://img.shields.io/github/stars/klassenserver7b/danceinterpreter-rs?style=flat&label=%E2%AD%90) - Displays the current song and its dance on screen at ballroom events (Rust, GPL-3.0; M3U / Traktor Pro playlists, available on Flathub).
+- [away](https://github.com/BadgerBallroom/away) ![GitHub stars](https://img.shields.io/github/stars/BadgerBallroom/away?style=flat&label=%E2%AD%90) - Web app that helps a collegiate ballroom team organize travel and carpools to other teams' competitions (TypeScript, MIT).
+- [WDSF-API](https://github.com/jaykay-design/WDSF-API) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-API?style=flat&label=%E2%AD%90) - Client library for the WDSF API (rankings, athletes, competitions; C#).
 
 ---
 
@@ -234,6 +236,7 @@ All curated lists maintained by [shvyac](https://github.com/shvyac):
 - [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
 - [awesome-ghost-artists](https://github.com/shvyac/awesome-ghost-artists) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ghost-artists?style=flat&label=%E2%AD%90)
 - [awesome-hamradio](https://github.com/shvyac/awesome-hamradio) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hamradio?style=flat&label=%E2%AD%90)
+- [awesome-hpc](https://github.com/shvyac/awesome-hpc) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hpc?style=flat&label=%E2%AD%90)
 - [awesome-iso27001-isms-tools](https://github.com/shvyac/awesome-iso27001-isms-tools) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-iso27001-isms-tools?style=flat&label=%E2%AD%90)
 - [awesome-local-llm](https://github.com/shvyac/awesome-local-llm) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-local-llm?style=flat&label=%E2%AD%90)
 - [awesome-m5stack-arduino](https://github.com/shvyac/awesome-m5stack-arduino) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-m5stack-arduino?style=flat&label=%E2%AD%90)

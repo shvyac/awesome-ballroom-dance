@@ -4,7 +4,7 @@
 
 [English README](README.md)
 
-**社交ダンス（ボールルーム）／ダンススポーツ**向けの厳選リソース集です。スタイル、統括団体、テクニック、学習、音楽、競技会、衣装・シューズ、ソフトウェア、日本の学連・団体を、インターナショナルスタイルの**10ダンス**（スタンダード5種＋ラテン5種）を中心にまとめています。
+**社交ダンス（ボールルーム）／ダンススポーツ**向けの厳選リソース集です。スタイル、統括団体、テクニック、学習、音楽、競技会、衣装・シューズ、ソフトウェア、日本の学連・団体を、インターナショナルスタイルの**10ダンス**（スタンダード5種＋ラテン5種）を中心にまとめています。⭐ バッジは GitHub のスター数をリアルタイム表示します(shields.io)。
 
 ## 目次
 
@@ -120,8 +120,9 @@
 - [Ballroom Collection（英語）](https://eugweb.github.io/) - Training Music／Training Music Player。ヒートの長さ・休憩・テンポを設定できるiOS用練習プレーヤー。Apple Watchで操作可能。
 - [DanceTime Deluxe（英語）](https://www.wimbledonsound.com/dancetime-deluxe/) - 1小節単位のテンポ調整、カウント、キューポイント付きのiOS用リズム練習アプリ。
 - [DanceLog（英語）](https://apps.apple.com/us/app/dancelog-latin-ballroom/id6746336322) - ボールルーム／ラテンダンサー向けのiPhone／Apple Watch用練習記録アプリ。練習ログと統計、Apple Musicを使った決勝ラウンドのシミュレーション、レッスンメモ、WDSFの競技結果・世界ランキング連携（無料、Proはサブスクリプション）。
-- [stepslow（英語）](https://github.com/dvorapa/stepslow) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
-- [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
+- [DanzDB（英語）](https://apps.apple.com/us/app/danzdb/id6759789833) - スタンダード／ラテン10種＋ディスコフォックス・サルサなど計15種目、200以上のフィガーをオフラインで引けるiPhone／iPad用リファレンスアプリ（無料、フル版は買い切りの課金）。
+- [stepslow（英語）](https://github.com/dvorapa/stepslow) ![GitHub stars](https://img.shields.io/github/stars/dvorapa/stepslow?style=flat&label=%E2%AD%90) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
+- [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea) ![GitHub stars](https://img.shields.io/github/stars/Kinovea/Kinovea?style=flat&label=%E2%AD%90)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
 - [DanceMirror（英語）](https://dancemirror.app/) - YouTubeのダンス動画を左右反転・スロー再生できる無料Webツール。
 
 ---
@@ -165,15 +166,16 @@
 - [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技向けWeb採点。
 - [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。[Google Play版](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic)もあり。
 - [danceConvention（App Store・英語）](https://apps.apple.com/app/danceconvention/id1465283443) - 登録、電子採点、QRチェックイン。
-- [WDSF Certified Scrutiny Software（英語）](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - WDSF公認の採点ソフト一覧（TopTurnier、TPS.net、DanceWork、Contaste、O2CM、Ballroom Comp Expressなど）。認定要件は[WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification)に記載。
+- [WDSF Certified Scrutiny Software（英語）](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - WDSF公認の採点ソフト一覧（TopTurnier、TPS.net、DanceWork、Contaste、O2CM、Ballroom Comp Expressなど）。認定要件は[WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-Competition-Software-Certification?style=flat&label=%E2%AD%90)に記載。
 
 ### オープンソース
 
-- [showcase（英語）](https://github.com/rubys/showcase) - ショーケース型競技会の運営システム（Rails、MIT）。重複出場を避けたヒート編成、リアルタイム採点入力、帳票、請求管理。
-- [jUdge（英語）](https://github.com/fellmann/jUdge) - スケーティングシステムなどダンススポーツの採点計算ライブラリ（Java、Apache-2.0）。
-- [BallroomSkatingSystem.jl（英語）](https://github.com/sdobber/BallroomSkatingSystem.jl) - スケーティングシステム（多数決方式）の計算（Julia）。
-- [danceinterpreter-rs（英語）](https://github.com/klassenserver7b/danceinterpreter-rs) - パーティーや競技会で、流れている曲と種目を画面に表示（Rust、GPL-3.0。M3U／Traktor Proのプレイリスト対応、Flathubで配布）。
-- [WDSF-API（英語）](https://github.com/jaykay-design/WDSF-API) - WDSF APIのクライアントライブラリ（ランキング・選手・競技会データ、C#）。
+- [showcase（英語）](https://github.com/rubys/showcase) ![GitHub stars](https://img.shields.io/github/stars/rubys/showcase?style=flat&label=%E2%AD%90) - ショーケース型競技会の運営システム（Rails、MIT）。重複出場を避けたヒート編成、リアルタイム採点入力、帳票、請求管理。
+- [jUdge（英語）](https://github.com/fellmann/jUdge) ![GitHub stars](https://img.shields.io/github/stars/fellmann/jUdge?style=flat&label=%E2%AD%90) - スケーティングシステムなどダンススポーツの採点計算ライブラリ（Java、Apache-2.0）。
+- [BallroomSkatingSystem.jl（英語）](https://github.com/sdobber/BallroomSkatingSystem.jl) ![GitHub stars](https://img.shields.io/github/stars/sdobber/BallroomSkatingSystem.jl?style=flat&label=%E2%AD%90) - スケーティングシステム（多数決方式）の計算（Julia）。
+- [danceinterpreter-rs（英語）](https://github.com/klassenserver7b/danceinterpreter-rs) ![GitHub stars](https://img.shields.io/github/stars/klassenserver7b/danceinterpreter-rs?style=flat&label=%E2%AD%90) - パーティーや競技会で、流れている曲と種目を画面に表示（Rust、GPL-3.0。M3U／Traktor Proのプレイリスト対応、Flathubで配布）。
+- [away（英語）](https://github.com/BadgerBallroom/away) ![GitHub stars](https://img.shields.io/github/stars/BadgerBallroom/away?style=flat&label=%E2%AD%90) - 大学ボールルームチームが他大学主催の競技会へ遠征する際の移動・乗り合わせを整理するWebアプリ（TypeScript、MIT）。
+- [WDSF-API（英語）](https://github.com/jaykay-design/WDSF-API) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-API?style=flat&label=%E2%AD%90) - WDSF APIのクライアントライブラリ（ランキング・選手・競技会データ、C#）。
 
 ---
 
@@ -234,6 +236,7 @@
 - [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
 - [awesome-ghost-artists](https://github.com/shvyac/awesome-ghost-artists) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-ghost-artists?style=flat&label=%E2%AD%90)
 - [awesome-hamradio](https://github.com/shvyac/awesome-hamradio) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hamradio?style=flat&label=%E2%AD%90)
+- [awesome-hpc](https://github.com/shvyac/awesome-hpc) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-hpc?style=flat&label=%E2%AD%90)
 - [awesome-iso27001-isms-tools](https://github.com/shvyac/awesome-iso27001-isms-tools) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-iso27001-isms-tools?style=flat&label=%E2%AD%90)
 - [awesome-local-llm](https://github.com/shvyac/awesome-local-llm) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-local-llm?style=flat&label=%E2%AD%90)
 - [awesome-m5stack-arduino](https://github.com/shvyac/awesome-m5stack-arduino) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-m5stack-arduino?style=flat&label=%E2%AD%90)
