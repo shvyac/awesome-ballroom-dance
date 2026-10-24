@@ -201,7 +201,6 @@
 - [ダンスビュウ：北海道大学 団体総合優勝](https://www.danceview.co.jp/news/?p=19529)
 - [駒澤大学 ニュース（ルンバ優勝）](https://www.komazawa-u.ac.jp/news/extracurricular/2022/1206-13659.html)
 - [電気通信大学 競技ダンス研究部 2022年成績](http://www.ballroomdance.club.uec.ac.jp/results2022.html)
-- [Wikipedia：全日本学生競技ダンス連盟（団体3位以下）](https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E7%AB%B6%E6%8A%80%E3%83%80%E3%83%B3%E3%82%B9%E9%80%A3%E7%9B%9F)
 
 ### 2021年（第66回・2021年12月4–5日・獨協大学）
 
@@ -221,7 +220,6 @@
 - [電気通信大学 競技ダンス研究部 2021年成績](http://www.ballroomdance.club.uec.ac.jp/results2021.html)
 - [日本女子体育大学 ニュース（第66回）](https://www.jwcpe.ac.jp/campus_life/club/athletic_club/competitive_dance/20211220_5126.html)
 - [立命館大学 SPORTS&CULTURE](https://www.ritsumei.ac.jp/sports-culture/culture/topics/detail/?id=583)
-- [Wikipedia：全日本学生競技ダンス連盟（団体順位）](https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E7%AB%B6%E6%8A%80%E3%83%80%E3%83%B3%E3%82%B9%E9%80%A3%E7%9B%9F)
 
 ## データの注意点
 
