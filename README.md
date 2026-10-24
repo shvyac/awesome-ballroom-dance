@@ -45,7 +45,6 @@ International Style competitive ballroom (often called DanceSport).
 - Paso Doble
 - Jive
 
-- [Ballroom dance — Wikipedia](https://en.wikipedia.org/wiki/Ballroom_dance) - History and style overview (International Standard/Latin and related forms).
 - [Breaking Down Competitive Ballroom Dance Styles — Dance Spirit](https://dancespirit.com/breaking-down-ballroom-styles/) - Short intro to the competitive 10 dances.
 - [WDSF Rules & documents](https://www.worlddancesport.org/Rules) - Official competition rules, syllabus notes, and judging references.
 

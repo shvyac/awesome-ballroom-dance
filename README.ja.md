@@ -45,8 +45,7 @@
 - パソドブレ
 - ジャイブ
 
-- [Ballroom dance — Wikipedia（英語）](https://en.wikipedia.org/wiki/Ballroom_dance) - 歴史とスタイル（インターナショナル・スタンダード／ラテンなど）の概要。
-- [Breaking Down Competitive Ballroom Dance Styles — Dance Spirit（英語）](https://dancespirit.com/breaking-down-ballroom-styles/) - 競技用10ダンスの短い紹介。
+- [Breaking Down Competitive Ballroom Dance Styles — Dance Spirit（英語）](https://dancespirit.com/breaking-down-ballroom-styles/) - 競技用1０ダンスの短い紹介。
 - [WDSF Rules & documents（英語）](https://www.worlddancesport.org/Rules) - 公式の競技ルール、シラバス関連、審判資料。
 
 ---
