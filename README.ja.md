@@ -4,7 +4,7 @@
 
 [English README](README.md)
 
-**社交ダンス（ボールルーム）／ダンススポーツ**向けの厳選リソース集です。スタイル、統括団体、テクニック、学習、音楽、競技会、衣装・シューズ、ソフトウェア、日本の学連・団体を、インターナショナルスタイルの**10ダンス**（スタンダード5種＋ラテン5種）を中心にまとめています。⭐ バッジは GitHub のスター数をリアルタイム表示します(shields.io)。
+**社交ダンス（ボールルーム）／ダンススポーツ**向けの厳選リソース集です。スタイル、統括団体、テクニック、学習、音楽、競技会、衣装・シューズ、ソフトウェア、日本の学連・団体を、インターナショナルスタイルの**10ダンス**（スタンダード5種＋ラテン5種）を中心にまとめています。⭐ バッジは GitHub のスター数をリアルタイム表示します(shields.io)。release バッジは GitHub の最新リリース日(YYYY/MM/DD、最終更新時点)を示します。last commit バッジは最新コミット日をリアルタイム表示します(shields.io)。
 
 ## 目次
 
@@ -115,13 +115,14 @@
 ボールルーム練習用の音楽プレーヤー（ヒート時間・テンポ調整）と、テクニック確認のための動画分析ツール。
 
 - [BallroomDJ 4（英語）](https://ballroomdj4.sourceforge.io/) - オープンソースのボールルーム用音楽プレーヤー（zlibライセンス、Windows／Mac／Linux）。種目順の自動プレイリスト、テンポ変更、BPM計測、スマホからの操作。
+- [DanceSport Player（英語）](https://github.com/dancesport-dj/DanceSportPlayer) ![New](https://img.shields.io/badge/-NEW-red?style=flat) ![GitHub stars](https://img.shields.io/github/stars/dancesport-dj/DanceSportPlayer?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F06-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/dancesport-dj/DanceSportPlayer?style=flat) - 競技会やダンスパーティーの音楽卓向けデスクトッププレーヤー（Windows／macOS／Linux）。最大4デッキのプレイリスト、曲ごとの再生時間とフェードアウト、ラウドネス平準化と種目ごとの公式テンポへのピッチ調整、AI音声による種目アナウンス、ジングル用カートウォール、MIDIコントローラー操作、2画面目用のプレゼンター表示、スマホリモコン。
 - [Ballroom Competition Trainer（英語）](https://apps.apple.com/us/app/ballroom-competition-trainer/id635693176) - 競技会と同じ形式（種目順・曲の長さ・休憩）で練習できるアプリ。[Google Play版](https://play.google.com/store/apps/details?id=dk.krogholmit.bct.full)もあり。
 - [Ballroom Collection（英語）](https://eugweb.github.io/) - Training Music／Training Music Player。ヒートの長さ・休憩・テンポを設定できるiOS用練習プレーヤー。Apple Watchで操作可能。
 - [DanceTime Deluxe（英語）](https://www.wimbledonsound.com/dancetime-deluxe/) - 1小節単位のテンポ調整、カウント、キューポイント付きのiOS用リズム練習アプリ。
 - [DanceLog（英語）](https://apps.apple.com/us/app/dancelog-latin-ballroom/id6746336322) - ボールルーム／ラテンダンサー向けのiPhone／Apple Watch用練習記録アプリ。練習ログと統計、Apple Musicを使った決勝ラウンドのシミュレーション、レッスンメモ、WDSFの競技結果・世界ランキング連携（無料、Proはサブスクリプション）。
 - [DanzDB（英語）](https://apps.apple.com/us/app/danzdb/id6759789833) - スタンダード／ラテン10種＋ディスコフォックス・サルサなど計15種目、200以上のフィガーをオフラインで引けるiPhone／iPad用リファレンスアプリ（無料、フル版は買い切りの課金）。
-- [stepslow（英語）](https://github.com/dvorapa/stepslow) ![GitHub stars](https://img.shields.io/github/stars/dvorapa/stepslow?style=flat&label=%E2%AD%90) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
-- [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea) ![GitHub stars](https://img.shields.io/github/stars/Kinovea/Kinovea?style=flat&label=%E2%AD%90)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
+- [stepslow（英語）](https://github.com/dvorapa/stepslow) ![GitHub stars](https://img.shields.io/github/stars/dvorapa/stepslow?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2022%2F07%2F07-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/dvorapa/stepslow?style=flat) - ダンサー向けのシンプルなテンポ変更プレーヤー（オープンソース、Android／Flutter）。
+- [Kinovea（英語）](https://www.kinovea.org/) - 無料・オープンソースの動画分析ソフト（[GitHub](https://github.com/Kinovea/Kinovea) ![GitHub stars](https://img.shields.io/github/stars/Kinovea/Kinovea?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/Kinovea/Kinovea?style=flat)、GPL-2.0、Windows）。スロー再生、2本の動画の並べ比べ、書き込み、角度計測。
 - [DanceMirror（英語）](https://dancemirror.app/) - YouTubeのダンス動画を左右反転・スロー再生できる無料Webツール。
 
 ---
@@ -161,20 +162,20 @@
 - [Easycomp（英語）](https://www.easycompsoftware.co.uk/) - 採点・競技運営スイート（ジャッジパッド、表示、結果）。
 - [Scrutelle（英語）](https://scrutineering.org/scrutelle/) - 大規模大会で使われる採点ソフト（ブラックプール系の実績）。[結果検索](https://scrutineering.org/cgi-bin/db0.pl)（アーカイブ、概ね2016〜2021年分）。
 - [O2CM（英語）](https://o2cm.com/) - 北米で広く使われるオンライン登録・運営・電子採点。
-- [BDC Scoring System（英語）](https://bdc-scoring.com/) - PC／タブレット連携のオンライン採点。
+- [BDC Scoring System（英語）](https://bdc.compe-scoring.com/) - PC／タブレット連携のオンライン採点。旧 bdc-scoring.com は Competition Scoring System（compe-scoring.com）のサブドメインへ移転。
 - [Competition Scoring System（英語）](https://compe-scoring.com/) - ダンス競技向けWeb採点。
 - [FALive（App Store・英語）](https://apps.apple.com/app/falive/id6502871498) - ライブ結果・ヒートリスト・プログラム。[Google Play版](https://play.google.com/store/apps/details?id=com.falive.falive_mobile_ionic)もあり。
 - [danceConvention（App Store・英語）](https://apps.apple.com/app/danceconvention/id1465283443) - 登録、電子採点、QRチェックイン。
-- [WDSF Certified Scrutiny Software（英語）](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - WDSF公認の採点ソフト一覧（TopTurnier、TPS.net、DanceWork、Contaste、O2CM、Ballroom Comp Expressなど）。認定要件は[WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-Competition-Software-Certification?style=flat&label=%E2%AD%90)に記載。
+- [WDSF Certified Scrutiny Software（英語）](https://www.worlddancesport.org/WDSF/IT-Infrastructure/Certified-Scrutiny-Software) - WDSF公認の採点ソフト一覧（TopTurnier、TPS.net、DanceWork、Contaste、O2CM、Ballroom Comp Expressなど）。認定要件は[WDSF-Competition-Software-Certification](https://github.com/jaykay-design/WDSF-Competition-Software-Certification) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-Competition-Software-Certification?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/jaykay-design/WDSF-Competition-Software-Certification?style=flat)に記載。
 
 ### オープンソース
 
-- [showcase（英語）](https://github.com/rubys/showcase) ![GitHub stars](https://img.shields.io/github/stars/rubys/showcase?style=flat&label=%E2%AD%90) - ショーケース型競技会の運営システム（Rails、MIT）。重複出場を避けたヒート編成、リアルタイム採点入力、帳票、請求管理。
-- [jUdge（英語）](https://github.com/fellmann/jUdge) ![GitHub stars](https://img.shields.io/github/stars/fellmann/jUdge?style=flat&label=%E2%AD%90) - スケーティングシステムなどダンススポーツの採点計算ライブラリ（Java、Apache-2.0）。
-- [BallroomSkatingSystem.jl（英語）](https://github.com/sdobber/BallroomSkatingSystem.jl) ![GitHub stars](https://img.shields.io/github/stars/sdobber/BallroomSkatingSystem.jl?style=flat&label=%E2%AD%90) - スケーティングシステム（多数決方式）の計算（Julia）。
-- [danceinterpreter-rs（英語）](https://github.com/klassenserver7b/danceinterpreter-rs) ![GitHub stars](https://img.shields.io/github/stars/klassenserver7b/danceinterpreter-rs?style=flat&label=%E2%AD%90) - パーティーや競技会で、流れている曲と種目を画面に表示（Rust、GPL-3.0。M3U／Traktor Proのプレイリスト対応、Flathubで配布）。
-- [away（英語）](https://github.com/BadgerBallroom/away) ![GitHub stars](https://img.shields.io/github/stars/BadgerBallroom/away?style=flat&label=%E2%AD%90) - 大学ボールルームチームが他大学主催の競技会へ遠征する際の移動・乗り合わせを整理するWebアプリ（TypeScript、MIT）。
-- [WDSF-API（英語）](https://github.com/jaykay-design/WDSF-API) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-API?style=flat&label=%E2%AD%90) - WDSF APIのクライアントライブラリ（ランキング・選手・競技会データ、C#）。
+- [showcase（英語）](https://github.com/rubys/showcase) ![GitHub stars](https://img.shields.io/github/stars/rubys/showcase?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/rubys/showcase?style=flat) - ショーケース型競技会の運営システム（Rails、MIT）。重複出場を避けたヒート編成、リアルタイム採点入力、帳票、請求管理。
+- [jUdge（英語）](https://github.com/fellmann/jUdge) ![GitHub stars](https://img.shields.io/github/stars/fellmann/jUdge?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/fellmann/jUdge?style=flat) - スケーティングシステムなどダンススポーツの採点計算ライブラリ（Java、Apache-2.0）。
+- [BallroomSkatingSystem.jl（英語）](https://github.com/sdobber/BallroomSkatingSystem.jl) ![GitHub stars](https://img.shields.io/github/stars/sdobber/BallroomSkatingSystem.jl?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2022%2F12%2F28-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/sdobber/BallroomSkatingSystem.jl?style=flat) - スケーティングシステム（多数決方式）の計算（Julia）。
+- [danceinterpreter-rs（英語）](https://github.com/klassenserver7b/danceinterpreter-rs) ![GitHub stars](https://img.shields.io/github/stars/klassenserver7b/danceinterpreter-rs?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F07%2F31-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/klassenserver7b/danceinterpreter-rs?style=flat) - パーティーや競技会で、流れている曲と種目を画面に表示（Rust、GPL-3.0。M3U／Traktor Proのプレイリスト対応、Flathubで配布）。
+- [away（英語）](https://github.com/BadgerBallroom/away) ![GitHub stars](https://img.shields.io/github/stars/BadgerBallroom/away?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/BadgerBallroom/away?style=flat) - 大学ボールルームチームが他大学主催の競技会へ遠征する際の移動・乗り合わせを整理するWebアプリ（TypeScript、MIT）。
+- [WDSF-API（英語）](https://github.com/jaykay-design/WDSF-API) ![GitHub stars](https://img.shields.io/github/stars/jaykay-design/WDSF-API?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2018%2F02%2F18-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jaykay-design/WDSF-API?style=flat) - WDSF APIのクライアントライブラリ（ランキング・選手・競技会データ、C#）。
 
 ---
 
@@ -240,10 +241,12 @@
 - [awesome-local-llm](https://github.com/shvyac/awesome-local-llm) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-local-llm?style=flat&label=%E2%AD%90)
 - [awesome-m5stack-arduino](https://github.com/shvyac/awesome-m5stack-arduino) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-m5stack-arduino?style=flat&label=%E2%AD%90)
 - [awesome-map-gis](https://github.com/shvyac/awesome-map-gis) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-map-gis?style=flat&label=%E2%AD%90)
+- [awesome-mcp-ai](https://github.com/shvyac/awesome-mcp-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-mcp-ai?style=flat&label=%E2%AD%90)
 - [awesome-meshless-cae](https://github.com/shvyac/awesome-meshless-cae) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-meshless-cae?style=flat&label=%E2%AD%90)
 - [awesome-online-services](https://github.com/shvyac/awesome-online-services) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-online-services?style=flat&label=%E2%AD%90)
 - [awesome-open-source-solvers](https://github.com/shvyac/awesome-open-source-solvers) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-open-source-solvers?style=flat&label=%E2%AD%90)
 - [awesome-osint-ai](https://github.com/shvyac/awesome-osint-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-osint-ai?style=flat&label=%E2%AD%90)
+- [awesome-quantum](https://github.com/shvyac/awesome-quantum) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-quantum?style=flat&label=%E2%AD%90)
 - [awesome-redmine-ai](https://github.com/shvyac/awesome-redmine-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-redmine-ai?style=flat&label=%E2%AD%90)
 - [awesome-requirements-system-ai](https://github.com/shvyac/awesome-requirements-system-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-requirements-system-ai?style=flat&label=%E2%AD%90)
 - [awesome-trading-stock](https://github.com/shvyac/awesome-trading-stock) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-trading-stock?style=flat&label=%E2%AD%90)
